@@ -1,0 +1,14 @@
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\bin\Debug\net8.0\SEMINAR33.exe
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\bin\Debug\net8.0\SEMINAR33.deps.json
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\bin\Debug\net8.0\SEMINAR33.runtimeconfig.json
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\bin\Debug\net8.0\SEMINAR33.dll
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\bin\Debug\net8.0\SEMINAR33.pdb
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\SEMINAR33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\SEMINAR33.AssemblyInfoInputs.cache
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\SEMINAR33.AssemblyInfo.cs
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\SEMINAR33.csproj.CoreCompileInputs.cache
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\SEMINAR33.dll
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\refint\SEMINAR33.dll
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\SEMINAR33.pdb
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\SEMINAR33.genruntimeconfig.cache
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\ref\SEMINAR33.dll
