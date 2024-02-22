@@ -12,3 +12,4 @@ C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\r
 C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\SEMINAR33.pdb
 C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\SEMINAR33.genruntimeconfig.cache
 C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\ref\SEMINAR33.dll
+C:\Users\ru's'ta'm\OneDrive\Рабочий стол\SEMINAR33\obj\Debug\net8.0\SEMINAR33.sourcelink.json
